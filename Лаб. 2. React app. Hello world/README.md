@@ -8,7 +8,7 @@
 ## Запуск
 
 ```bash
-docker build -t react-hello-world
+docker build -t react-hello-world .
 docker run -it -p 80:80 react-hello-world
 ```
 
